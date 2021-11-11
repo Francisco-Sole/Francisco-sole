@@ -1,6 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on Impackta
-📫 How to reach me: srsole30687@gmail.com
+🔭 I’m currently working on Impackta<br>
+
+📫 How to reach me: srsole30687@gmail.com<br>
 <!--
 **Francisco-Sole/Francisco-sole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

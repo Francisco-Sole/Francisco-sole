@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on Impaweb<br>
+🔭 I’m currently working on Imaweb<br>
 
 📫 How to reach me: srsole30687@gmail.com<br>
 <!--
